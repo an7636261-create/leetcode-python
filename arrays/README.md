@@ -9,7 +9,9 @@ This repository contains my solutions to leetCode problem in python
 -Best time to buy and sell stock
 -contains duplicate
 -Maximum sunarray
+-Move Zeroes
 
 #Strings
 -Valid Anagram
+
 
