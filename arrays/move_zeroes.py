@@ -7,5 +7,5 @@ def moveZeroes(nums):
             slow+=1
 
 nums=[0,1,0,3,12]
-moveZeroes(nums)
-print("Result:",nums)
+result=moveZeroes(nums)
+print("Result:",result)
