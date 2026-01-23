@@ -10,15 +10,16 @@ commonly asked in technical interviews.
 
 ### Arrays
 - **Two Sum** (LC #1) — Hash Map
-- **Best Time to Buy and Sell Stock** (LC #121) — Sliding Window
-- **Contains Duplicate** (LC #217) — Hash Set
-- **Maximum Subarray** (LC #53) — Kadane’s Algorithm
-- **Move Zeroes** (LC #283) — Two Pointers, In-Place
-
----
+- **Best Time to Buy and Sell Stock** (LC #121) - Sliding Window
+- **Contains Duplicate** (LC #217) - Hash Set
+- **Maximum Subarray** (LC #53) - Kadane’s Algorithm
+- **Move Zeroes** (LC #283) - Two Pointers, In-Place
+- **Maximum Average Subarray 2**(LC #643) - Sliding Window(Fixed)
+- **Prefix & Sufix**(LC #238) - Prefix/Sufix
+- **Remove Duplicates from Sorted Array**(LC #26) - Two pointer
 
 ### Strings
-- **Valid Anagram** (LC #242) — Hash Map
+- **Valid Anagram** (LC #242) - Hash Map
 
 ---
 
