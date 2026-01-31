@@ -11,4 +11,5 @@ def maxprofit(prices):
 
     return max_profit
 
+#example
 print(maxprofit([7,1,5,3,6,4]))

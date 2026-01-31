@@ -9,6 +9,7 @@ def findMaxAverage(nums,k):
 
     return max_sum/float(k)
 
+#example
 nums=[1,12,-5,-6,50,3]
 result=findMaxAverage(nums,4)
 print("Maximum average is:",result)

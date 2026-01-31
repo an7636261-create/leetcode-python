@@ -6,6 +6,7 @@ def moveZeroes(nums):
             nums[slow], nums[i] = nums[i], nums[slow]
             slow+=1
 
+#example
 nums=[0,1,0,3,12]
 result=moveZeroes(nums)
 print("Result:",result)

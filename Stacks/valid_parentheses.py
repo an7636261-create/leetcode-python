@@ -16,6 +16,7 @@ def is_valid(s):
                 return False
     return len(stack) == 0
 
+#testing
 s="()"
 print(is_valid(s))
 

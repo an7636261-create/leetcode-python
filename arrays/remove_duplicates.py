@@ -11,6 +11,7 @@ def removeDuplicates(nums):
         
     return k
 
+#example
 nums=[1,1,2]
 result=removeDuplicates(nums)
 print("k:",result)
