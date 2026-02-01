@@ -8,6 +8,7 @@ def groupAnagrams(strs):
 
     return list(groups.values())
 
+#example
 strs = ["eat","tea","tan","ate","nat","bat"]
 print(groupAnagrams(strs))
 
