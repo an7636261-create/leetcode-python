@@ -20,6 +20,15 @@ commonly asked in technical interviews.
 
 ### Strings
 - **Valid Anagram** (LC #242) - Hash Map
+- **Longest substring without repeating** (LC #3) - Sliding Window,Hash table
+- **Valid Pakindrome** (LC #125) - Two Pointers
+- **Group Anagrams** (LC #49) 
+
+### Stacks
+- **Valid Parentheses** (LC #20)
+- **Mininum Stack** (LC #155)
+- **Daily Temperatures** (LC #739)
+- **Next Greater Element 1** (LC #496)
 
 ---
 
@@ -29,6 +38,7 @@ commonly asked in technical interviews.
 - Sliding Window
 - In-Place Array Modification
 - Kadane’s Algorithm
+-
 
 ---
 
