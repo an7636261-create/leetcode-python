@@ -1,3 +1,4 @@
+#The problem uses Kadane's Algorithm(Dynamic programming)
 def maxSubArray(nums):
     current_sum=nums[0]
     max_sum=nums[0]

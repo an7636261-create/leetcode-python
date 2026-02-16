@@ -1,9 +1,10 @@
+#The problem uses Two Pointer Algorithm
 def moveZeroes(nums):
     slow=0
 
     for i in range(len(nums)):
         if nums[i] != 0:
-            nums[slow], nums[i] = nums[i], nums[slow]
+            nums[slow], nums[i] = nums[i], nums[slow] #swapping
             slow+=1
 
 #example
