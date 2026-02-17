@@ -14,5 +14,5 @@ def is_palindrome(s):
         right-=1
     return True
 
-s="A man, a plan, a canal: Panama"
+s="A man, a plan, a canal: Panama" #amanaplanacanalpanama
 print("Result:",is_palindrome(s))
