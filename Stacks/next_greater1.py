@@ -7,9 +7,11 @@ def nextgreater(nums1,nums2):
         while stack and num > stack[-1]:
             prev = stack.pop()
             next_greater[prev] = num
+
+        #we may find a grater element later,we don't know yet
         stack.append(num)
         
-    #elements ;eft in stack have no next greater
+    #elements left in stack have no next greater so return -1
     for num in stack:
         next_greater[num] = -1
 
