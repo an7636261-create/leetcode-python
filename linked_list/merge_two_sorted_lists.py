@@ -3,6 +3,14 @@ class Node:
         self.val = val
         self.next = None
 
+    def __str__(self):
+        res = []
+        curr = self
+        while curr:
+            res.append(str(curr.val))
+            curr = curr.next
+        return "->".join(res) + "-> None"
+
 def mergeTwoLists(list1,list2):
     dummy = Node(-1)
     curr = dummy
@@ -18,15 +26,15 @@ def mergeTwoLists(list1,list2):
 
         curr = curr.next
 
-        if list1:
-            curr.next = list1
-        else:
-            curr.next = list2
+    if list1:
+        curr.next = list1
+    else:
+        curr.next = list2
 
-        return dummy.next
+    return dummy.next
     
 #example
-list1 = [1,2,4]
+# list1 = [1,2,4]
 
 n1=Node(1)
 n2=Node(2)
@@ -35,7 +43,7 @@ n3=Node(4)
 n1.next=n2
 n2.next=n3
 
-list2 = [1,3,4]
+# list2 = [1,3,4]
 
 n4=Node(1)
 n5=Node(3)
