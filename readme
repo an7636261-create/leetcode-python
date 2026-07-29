@@ -16,20 +16,21 @@ commonly asked in technical interviews.
 - **Contains Duplicate** (LC #217) - Hash Set
 - **Maximum Subarray** (LC #53) - Kadane’s Algorithm
 - **Move Zeroes** (LC #283) - Two Pointers, In-Place
-- **Maximum Average Subarray 2**(LC #643) - Sliding Window(Fixed)
-- **Product Of Array Except Self**(LC #238) - Prefix Product(left-right product technique)
+- **Maximum Average Subarray I**(LC #643) - Sliding Window(Fixed)
+- **Product Of Array Except Self**(LC #238) - Prefix & Sufix Product(left-right product technique)
 
 ### Strings
 - **Valid Anagram** (LC #242) - Hash Map
-- **Longest substring without repeating** (LC #3) - Sliding Window,Hash table
-- **Valid Pakindrome** (LC #125) - Two Pointers
-- **Group Anagrams** (LC #49) 
+- **Longest Substring Without Repeating** (LC #3) - Sliding Window,Hash table
+- **Valid Palindrome** (LC #125) - Two Pointers
+- **Group Anagrams** (LC #49)
+- **Maximum Number of Vowels in a Substring of Given Length** (LC #1456) — Fixed-Size Sliding Window 
 
 ### Stacks
 - **Valid Parentheses** (LC #20)
-- **Mininum Stack** (LC #155)
+- **Min Stack** (LC #155)
 - **Daily Temperatures** (LC #739)
-- **Next Greater Element 1** (LC #496)
+- **Next Greater Element I** (LC #496)
 
 ---
 
@@ -39,7 +40,7 @@ commonly asked in technical interviews.
 - Sliding Window
 - In-Place Array Modification
 - Kadane’s Algorithm
--
+- Monotonic Stack
 
 ---
 
