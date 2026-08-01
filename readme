@@ -18,6 +18,7 @@ commonly asked in technical interviews.
 - **Move Zeroes** (LC #283) - Two Pointers, In-Place
 - **Maximum Average Subarray I**(LC #643) - Sliding Window(Fixed)
 - **Product Of Array Except Self**(LC #238) - Prefix & Sufix Product(left-right product technique)
+- **Defuse the Bomb**(LC #1652) - Sliding Window
 
 ### Strings
 - **Valid Anagram** (LC #242) - Hash Map
